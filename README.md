@@ -1,6 +1,2 @@
-- I like anime
-
-<!---
-NotDarkkkk/NotDarkkkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm a second-year Computer Science student with a strong interest for software development and a curiosity for all things tech. 
+- I love learning new skills, exploring different areas of IT and CS, and creating projects. 
